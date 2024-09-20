@@ -34,7 +34,9 @@ Here are descriptions of these components:
 ![landing](images/data_source_mv.png)
 ![landing](images/publishing_pipes.png)
 
-Data generator posts product-related events:
+## Data generation
+
+or posts product-related events:
 
 * View
 * Cart
